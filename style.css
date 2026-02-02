@@ -65,6 +65,18 @@ h1 {
     transition: transform 0.04s ease, background 0.15s ease;
 }
 
+/* Add this near your .cell styles */
+
+.cell:focus {
+    outline: 4px solid rgba(43, 89, 255, 0.35);
+    outline-offset: 2px;
+}
+
+/* Optional: slightly change background when focused */
+.cell:focus {
+    background: #f7f9ff;
+}
+
 .cell:active {
     transform: scale(0.98);
 }
