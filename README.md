@@ -1,1 +1,13 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/BCrizr4d)
+# SE4471_Lab1
+
+A simple, web-based Tic-Tac-Toe game for two players on the same device (HTML/CSS/JavaScript). Includes keyboard-only play support (arrow keys + Enter/Space).
+
+## How to run locally
+- **Vanilla (no build tools):** open `index.html` in your browser.
+
+## GitHub Pages URL (after you deploy)
+- TBA:  
+  **https://<your-github-username>.github.io/<your-repo-name>/**
+
+## LLM tool(s) used (disclosure)
+- **ChatGPT 5.2 (OpenAI)** — used to help generate the initial HTML/CSS/JS implementation and update it for keyboard accessibility.
