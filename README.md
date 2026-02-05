@@ -5,7 +5,7 @@ A simple, web-based Tic-Tac-Toe game for two players on the same device (HTML/CS
 ## How to run locally
 - **Vanilla (no build tools):** open `index.html` in your browser.
 
-## GitHub Pages URL (after you deploy)
+## GitHub Pages URL
 - TBA:  
   **https://<your-github-username>.github.io/<your-repo-name>/**
 
