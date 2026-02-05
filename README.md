@@ -4,11 +4,9 @@ A simple, web-based Tic-Tac-Toe game for two players on the same device (HTML/CS
 
 ## How to run locally
 
-- **Vanilla (no build tools):** open `index.html` in your browser.
+open `index.html` in your browser.
 
 ## GitHub Pages URL
-
-- TBA:  
   **https://alexandralheureuxece.github.io/lab-1-wseguin03/**
 
 ## LLM tool(s) used (disclosure)
